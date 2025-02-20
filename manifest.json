@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "RTL-Deepseek",
-  "version": "1.0",
+  "version": "1.1",
   "description": "This plugin rtl chat Deepseek.",
   "permissions": ["activeTab"],
   "content_scripts": [
