@@ -4,3 +4,9 @@ body {
   word-break: break-word;
 }
 
+.md-code-block {
+    direction: ltr !important;
+    text-align: left !important;
+}
+
+
