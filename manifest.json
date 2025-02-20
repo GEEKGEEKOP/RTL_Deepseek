@@ -1,14 +1,9 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "RTL-Deepseek",
   "version": "1.0",
   "description": "This plugin rtl chat Deepseek.",
   "permissions": ["activeTab"],
-  "applications": {
-    "gecko": {
-      "id": "geekgeekop@yahoo.com"
-    }
-  },
   "content_scripts": [
     {
       "matches": ["https://chat.deepseek.com/*"],
