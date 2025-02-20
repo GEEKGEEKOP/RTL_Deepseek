@@ -5,8 +5,9 @@
   "description": "This plugin rtl chat Deepseek.",
   "permissions": ["activeTab"],
   "applications": {
-      "gecko": {
+    "gecko": {
       "id": "geekgeekop@yahoo.com"
+    }
   },
   "content_scripts": [
     {
@@ -14,6 +15,5 @@
       "js": ["script.js"],
       "css": ["style.css"]
     }
-  ],
+  ]
 }
-
